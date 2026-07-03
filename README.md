@@ -1,96 +1,141 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mohamed%20Irfan%20Shafi&fontSize=42&fontColor=E8E8E8&fontAlignY=50&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=70&descSize=16&descColor=A0A0A0" width="100%"/>
 
-# Hey there! I'm Mohamed Irfan Shafi 👋🤖
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=🚀+AI+%2F+ML+Engineer;🧠+Machine+Learning+%2B+Deep+Learning;📊+Turning+Data+Into+Decisions;⚡+Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=8892B0&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Building+ML-Powered+Solutions;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%"/>
+<br><br>
 
-<a href="mailto:irfanshafi210608@gmail.com"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/irfanshafi21"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+[![Email](https://img.shields.io/badge/-irfanshafi210608%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanshafi210608@gmail.com)
+[![GitHub](https://img.shields.io/badge/-irfanshafi21-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanshafi21)
 
-<img src="https://komarev.com/ghpvc/?username=irfanshafi21&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=irfanshafi21&label=Profile%20Views&color=1a1a2e&style=flat-square" />
 
 </div>
 
----
+<br>
 
-## 🧠 About Me
+## 👤 About Me
 
-```
-🤖 role         : AI/ML Engineer
-🔭 building     : Intelligent Candidate Discovery System
-🌱 learning     : Deep Learning & Neural Networks
-🤝 open to      : AI/ML Collaborations
-📫 contact      : irfanshafi210608@gmail.com
-⚡ fun fact     : I turn messy resumes into ranked shortlists!
-```
+I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu Engineering College**, passionate about building practical, ML-powered systems that solve real problems. I enjoy working across the ML pipeline — from data processing to model building — and I'm actively developing my skills through hands-on projects.
 
----
+<br>
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,vscode" />
-</p>
+<table>
+<tr>
+<td width="70">🏫</td>
+<td>
+<b>Kongu Engineering College</b><br>
+<sub>B.E. — Artificial Intelligence & Machine Learning (AIML)</sub><br>
+<sub>2nd Year · Currently Pursuing</sub>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6EC7?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<br>
 
----
+## 🛠️ Technical Skills
 
-## 🎯 Featured Project — Intelligent Candidate Discovery 🕵️‍♂️
+<table>
+<tr>
+<td valign="top" width="33%">
 
-> 🧩 An AI system that finds the **top 10 best-fit candidates** for any job — automatically!
+**Languages**
+<br>
+`Python`
 
-### 🔄 How It Works
+</td>
+<td valign="top" width="33%">
 
-```mermaid
-graph LR
-A[📄 Upload Resumes] --> B[📋 Upload Job Description]
-B --> C[🎯 Select Filters: Skills / Experience / Activity]
-C --> D[🤖 AI Matching Engine]
-D --> E[🏆 Top 10 Candidates]
-```
+**ML / AI**
+<br>
+`TensorFlow` `PyTorch` `Scikit-learn`
 
-### ✨ Key Features
-- 📥 **Bulk Resume Upload** — process multiple resumes at once
-- 🧾 **JD-Based Matching** — match against a real job description, not just keywords
-- ⚙️ **Custom Filters** — weigh by Skills, Experience, or Activity
-- 🧠 **Smart Ranking Engine** — AI scores and ranks every candidate
-- 🏆 **Top 10 Output** — get your shortlist instantly
+</td>
+<td valign="top" width="33%">
 
-**Built with:** `Python` 🐍 · `NLP` 💬 · `Machine Learning` 🤖 · `Pandas` 🐼
+**Data Tools**
+<br>
+`Pandas` `NumPy` `MySQL`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanshafi21&repo=intelligent-candidate-discovery&theme=radical&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,vscode&theme=dark" />
 </p>
 
----
+<br>
 
-## 📊 GitHub Stats
+## 💼 Featured Project
+
+### Intelligent Candidate Discovery
+
+<sub>AI-powered resume screening and candidate ranking system</sub>
+
+An ML-based recruitment tool that automates candidate shortlisting by matching resumes against a job description — replacing hours of manual screening with an instant, data-driven ranking.
+
+**How it works**
+
+| Step | Description |
+|:---:|---|
+| **1** | Recruiter uploads multiple candidate resumes in bulk |
+| **2** | Recruiter uploads the target job description |
+| **3** | Recruiter selects match criteria — **skills**, **experience**, or **activity** |
+| **4** | The system parses and scores each resume against the JD |
+| **5** | Returns a ranked **Top 10** shortlist of best-fit candidates |
+
+**Core capabilities**
+- Bulk resume parsing across multiple candidates
+- Configurable scoring — weight matches by skill, experience, or project activity
+- Job description-driven relevance scoring (beyond simple keyword search)
+- Clean, ranked output for faster hiring decisions
+
+**Tech stack:** `Python` · `NLP` · `Machine Learning` · `Pandas`
+
+**Status:** In active development
+
+[View Repository →](https://github.com/irfanshafi21/intelligent-candidate-discovery)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=irfanshafi21&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanshafi21&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanshafi21&repo=intelligent-candidate-discovery&theme=transparent&hide_border=true&title_color=8892B0&text_color=A0A0A0&icon_color=8892B0" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=irfanshafi21&theme=radical&hide_border=true" width="60%" />
-</p>
+<br>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanshafi21&theme=react-dark&hide_border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+## 📊 GitHub Activity
 
 <div align="center">
-<b>🚀 Thanks for visiting — let's build something intelligent together!</b>
+<img src="https://github-readme-stats.vercel.app/api?username=irfanshafi21&show_icons=true&theme=transparent&hide_border=true&title_color=8892B0&text_color=A0A0A0&icon_color=8892B0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanshafi21&layout=compact&theme=transparent&hide_border=true&title_color=8892B0&text_color=A0A0A0" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanshafi21&theme=minimal&hide_border=true&bg_color=00000000&color=8892B0&line=8892B0&point=A0A0A0" />
+</div>
+
+<br>
+
+## 🎯 Currently
+
+```
+📚 Studying     : AI/ML fundamentals, Deep Learning, NLP
+🔭 Building     : Intelligent Candidate Discovery
+🤝 Open to      : Internships, ML collaborations, project work
+📫 Reach me     : irfanshafi210608@gmail.com
+```
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+
+<sub>Thanks for visiting my profile.</sub>
+
 </div>
