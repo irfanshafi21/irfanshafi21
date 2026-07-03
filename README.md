@@ -76,7 +76,7 @@ I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu
 
 <br>
 
-## 💼 Featured Project
+## 💼 Featured Projects
 
 ### Intelligent Candidate Discovery
 
@@ -108,6 +108,41 @@ An ML-based recruitment tool that automates candidate shortlisting by matching r
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshafi21&repo=intelligent-candidate-discovery&theme=dark_dimmed&hide_border=true" />
+</p>
+
+<br>
+
+### EduTrack
+
+<sub>Student attendance & performance management portal</sub>
+
+A role-based web app for managing student attendance, marks, timetables, and announcements — giving teachers a fast way to track class performance and students a clear view of their own progress.
+
+**How it works**
+
+| Step | Description |
+|:---:|---|
+| **1** | Teacher or Student logs in with role-specific credentials |
+| **2** | Teacher marks attendance by department & semester, or enters exam marks |
+| **3** | Data is aggregated into attendance %, GPA, and subject-wise stats |
+| **4** | Students view their own attendance, marks, and timetable in real time |
+| **5** | Announcements and dashboards keep both roles up to date |
+
+**Core capabilities**
+- Role-based dashboards for Teachers and Students
+- Attendance tracking with monthly breakdowns and percentage calculations
+- Marks entry with auto-calculated GPA and grade badges
+- Weekly timetable view by department and semester
+- Announcement board and visual performance charts
+
+**Tech stack:** `HTML` · `JavaScript` · `Tailwind CSS` · `Chart.js`
+
+**Status:** Live
+
+[View Repository →](https://github.com/irfanshafi21/edutrack) · [Live Demo →](https://irfanshafi21.github.io/edutrack/)
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshafi21&repo=edutrack&theme=dark_dimmed&hide_border=true" />
 </p>
 
 <br>
