@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=160&section=header" width="100%"/>
 
-# Mohamed Irfan Shafi
+# MOHAMED IRFAN SHAFI
 
 <sub>Aspiring AI/ML Engineer</sub>
 
