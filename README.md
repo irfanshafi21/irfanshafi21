@@ -51,7 +51,7 @@ I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu
 **Languages**
 <br>
 `Python`
-`Python`
+`C`
 
 </td>
 <td valign="top" width="33%">
