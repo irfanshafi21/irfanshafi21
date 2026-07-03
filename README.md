@@ -107,7 +107,7 @@ An ML-based recruitment tool that automates candidate shortlisting by matching r
 [View Repository →](https://github.com/irfanshafi21/intelligent-candidate-discovery)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanshafi21&repo=intelligent-candidate-discovery&theme=transparent&hide_border=true&title_color=8892B0&text_color=A0A0A0&icon_color=8892B0" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=irfanshafi21&repo=intelligent-candidate-discovery&theme=dark_dimmed&hide_border=true" />
 </p>
 
 <br>
@@ -115,12 +115,12 @@ An ML-based recruitment tool that automates candidate shortlisting by matching r
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=irfanshafi21&show_icons=true&theme=transparent&hide_border=true&title_color=8892B0&text_color=A0A0A0&icon_color=8892B0" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanshafi21&layout=compact&theme=transparent&hide_border=true&title_color=8892B0&text_color=A0A0A0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=irfanshafi21&show_icons=true&theme=dark_dimmed&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanshafi21&layout=compact&theme=dark_dimmed&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanshafi21&theme=minimal&hide_border=true&bg_color=00000000&color=8892B0&line=8892B0&point=A0A0A0" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanshafi21&theme=github-compact&hide_border=true" />
 </div>
 
 <br>
