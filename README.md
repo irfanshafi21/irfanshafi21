@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=160&section=header" width="100%"/>
 
-# MOHAMED IRFAN SHAFI
+# Mohamed Irfan Shafi
 
 <sub>Aspiring AI/ML Engineer</sub>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=8892B0&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Building+ML-Powered+Solutions;Turning+Data+Into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=8892B0&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Building+ML-Powered+Solutions;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
 <br><br>
 
@@ -51,7 +51,6 @@ I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu
 **Languages**
 <br>
 `Python`
-`C`
 
 </td>
 <td valign="top" width="33%">
