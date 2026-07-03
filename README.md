@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=180&section=header&text=Mohamed%20Irfan%20Shafi&fontSize=42&fontColor=E8E8E8&fontAlignY=50&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=70&descSize=16&descColor=A0A0A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=160&section=header" width="100%"/>
+
+# Mohamed Irfan Shafi
+
+<sub>Aspiring AI/ML Engineer</sub>
 
 <br>
 
