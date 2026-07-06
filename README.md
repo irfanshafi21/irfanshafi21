@@ -12,7 +12,9 @@
 
 <br><br>
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfanshafi21.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/-irfanshafi210608%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanshafi210608@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Irfan%20Shafi-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-irfan-shafi-s-m-9473913b8)
 [![GitHub](https://img.shields.io/badge/-irfanshafi21-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanshafi21)
 
 <img src="https://komarev.com/ghpvc/?username=irfanshafi21&label=Profile%20Views&color=1a1a2e&style=flat-square" />
@@ -25,6 +27,8 @@
 
 I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu Engineering College**, passionate about building practical, ML-powered systems that solve real problems. I enjoy working across the ML pipeline — from data processing to model building — and I'm actively developing my skills through hands-on projects.
 
+🔗 **Check out my full portfolio here → [irfanshafi21.github.io/portfolio](https://irfanshafi21.github.io/portfolio/)**
+
 <br>
 
 ## 🎓 Education
@@ -33,9 +37,9 @@ I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu
 <tr>
 <td width="70">🏫</td>
 <td>
-<b>Kongu Engineering College</b><br>
+<b>Kongu Engineering College, Erode</b><br>
 <sub>B.E. — Artificial Intelligence & Machine Learning (AIML)</sub><br>
-<sub>2nd Year · Currently Pursuing</sub>
+<sub>2023 — 2027 (Expected) · Currently Pursuing (2nd Year)</sub>
 </td>
 </tr>
 </table>
@@ -46,32 +50,39 @@ I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Languages**
 <br>
-`Python`
+`Python` `C`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **ML / AI**
 <br>
-`TensorFlow` `PyTorch` `Scikit-learn`
+`Supervised Learning` `Unsupervised Learning` `NLP basics` `Model Evaluation`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Data Tools**
 <br>
-`Pandas` `NumPy` `MySQL`
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+
+</td>
+<td valign="top" width="25%">
+
+**Web Development**
+<br>
+`HTML5` `CSS3` `JavaScript` `Tailwind CSS` `Chart.js`
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,tailwind,git,github,vscode&theme=dark" />
 </p>
 
 <br>
@@ -147,6 +158,26 @@ A role-based web app for managing student attendance, marks, timetables, and ann
 
 <br>
 
+### Personal Portfolio Website
+
+<sub>Interactive personal portfolio with a built-in content editor</sub>
+
+A fully responsive, animated personal portfolio site showcasing my profile, skills, education, projects, and certifications — with a hidden admin panel that lets me update every section (profile, skills, education, projects, certifications) without touching code.
+
+**Core capabilities**
+- Dark/light theme toggle with animated particle background
+- Filterable, categorized skills section with proficiency levels
+- Drag-and-drop admin panel for managing all content sections
+- Secure local admin login with password change & JSON backup/restore
+
+**Tech stack:** `HTML` · `Tailwind CSS` · `JavaScript`
+
+**Status:** Live
+
+[🌐 Live Portfolio →](https://irfanshafi21.github.io/portfolio/)
+
+<br>
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -165,6 +196,7 @@ A role-based web app for managing student attendance, marks, timetables, and ann
 ```
 📚 Studying     : AI/ML fundamentals, Deep Learning, NLP
 🔭 Building     : Intelligent Candidate Discovery
+🌐 Portfolio    : https://irfanshafi21.github.io/portfolio/
 🤝 Open to      : Internships, ML collaborations, project work
 📫 Reach me     : irfanshafi210608@gmail.com
 ```
