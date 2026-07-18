@@ -33,7 +33,7 @@ I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu
 <td>
 <b>Kongu Engineering College, Erode</b><br>
 <sub>B.E. — Artificial Intelligence & Machine Learning (AIML)</sub><br>
-<sub>2023 — 2027 (Expected) · Currently Pursuing (2nd Year)</sub>
+<sub>2025 — 2029 · Currently Pursuing (2nd Year)</sub>
 </td>
 </tr>
 </table>
