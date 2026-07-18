@@ -94,7 +94,7 @@ I'm a 2nd-year **Artificial Intelligence & Machine Learning** student at **Kongu
 ### 🤖 Intelligent Candidate Discovery
 <sub>AI-powered resume screening and candidate ranking system</sub>
 
-![Status](https://img.shields.io/badge/STATUS-In_Development-f59e0b?style=for-the-badge&logo=githubactions&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)
 
 An ML-based recruitment tool that automates candidate shortlisting by matching resumes against a job description — replacing hours of manual screening with an instant, data-driven ranking.
 
