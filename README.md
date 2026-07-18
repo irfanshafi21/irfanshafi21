@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:7c3aed&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 # MOHAMED IRFAN SHAFI
 
@@ -8,16 +8,16 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=8892B0&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Building+ML-Powered+Solutions;Turning+Data+Into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2DD4BF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Building+ML-Powered+Solutions;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfanshafi21.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/-irfanshafi210608%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanshafi210608@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Irfan%20Shafi-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-irfan-shafi-s-m-9473913b8)
-[![GitHub](https://img.shields.io/badge/-irfanshafi21-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanshafi21)
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://irfanshafi21.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/-irfanshafi210608%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanshafi210608@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Irfan%20Shafi-0d9488?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-irfan-shafi-s-m-9473913b8)
+[![GitHub](https://img.shields.io/badge/-irfanshafi21-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanshafi21)
 
-<img src="https://komarev.com/ghpvc/?username=irfanshafi21&label=Profile%20Views&color=1a1a2e&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=irfanshafi21&label=Profile%20Views&color=0d9488&style=flat-square" />
 
 </div>
 
@@ -118,7 +118,7 @@ An ML-based recruitment tool that automates candidate shortlisting by matching r
 [View Repository →](https://github.com/irfanshafi21/intelligent-candidate-discovery)
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshafi21&repo=intelligent-candidate-discovery&theme=dark_dimmed&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshafi21&repo=intelligent-candidate-discovery&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
@@ -153,7 +153,7 @@ A role-based web app for managing student attendance, marks, timetables, and ann
 [View Repository →](https://github.com/irfanshafi21/edutrack) · [Live Demo →](https://irfanshafi21.github.io/edutrack/)
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshafi21&repo=edutrack&theme=dark_dimmed&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshafi21&repo=edutrack&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
@@ -181,12 +181,12 @@ A fully responsive, animated personal portfolio site showcasing my profile, skil
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=irfanshafi21&show_icons=true&theme=dark_dimmed&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=irfanshafi21&layout=compact&theme=dark_dimmed&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=irfanshafi21&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=irfanshafi21&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanshafi21&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanshafi21&theme=tokyo-night&hide_border=true" />
 </div>
 
 <br>
@@ -205,7 +205,7 @@ A fully responsive, animated personal portfolio site showcasing my profile, skil
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:7c3aed&height=100&section=footer" width="100%"/>
 
 <sub>Thanks for visiting my profile.</sub>
 
